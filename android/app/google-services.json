@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "457617510020",
+    "firebase_url": "https://carenavigation-caae6-default-rtdb.firebaseio.com",
+    "project_id": "carenavigation-caae6",
+    "storage_bucket": "carenavigation-caae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457617510020:android:2c05ab813c8c17d807fcd1",
+        "android_client_info": {
+          "package_name": "com.example.care_navigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457617510020-0vti720hlsjk74d91rkp93rgapjlpil2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQMem1LycHccD0ZKKnGtQS9e9Pm0XKpI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457617510020-0vti720hlsjk74d91rkp93rgapjlpil2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457617510020:android:a825112bf3d1577207fcd1",
+        "android_client_info": {
+          "package_name": "com.optimizatex.care_navigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457617510020-0vti720hlsjk74d91rkp93rgapjlpil2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQMem1LycHccD0ZKKnGtQS9e9Pm0XKpI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457617510020-0vti720hlsjk74d91rkp93rgapjlpil2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
